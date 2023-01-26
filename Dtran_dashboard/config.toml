@@ -1,0 +1,18 @@
+[mongodb]
+mongo_host = "localhost"
+mongo_database = ""
+mongo_col =  ""
+mongo_user = ""
+mongo_pswd = ""
+mongo_add_info = ""
+
+status = false
+
+[mssql]
+sql_host = ""
+sql_user = ""
+sql_pswd = ""
+sql_database = ""
+sql_table = ""
+
+status = false
